@@ -24,4 +24,4 @@ pip install automl-alearn
 ## Installing Additional Dependencies
 To install the library's dependencies from a requirements.txt file, first download the requirements.txt into your project directory. Then you can use the following command:
 ```bash
-pip -r requirements.txt
+pip install -r requirements.txt
