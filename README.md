@@ -2,7 +2,7 @@
 
 <h1 align="center">'automl-alearn': Automated Machine Learning Library</h1>
 
-**automl-alearn** is a powerful Python library designed to simplify the machine learning workflow, offering streamlined model building, visualization, and data preprocessing. With an intuitive interface, it empowers users to rapidly prototype and construct models with minimal complexity.
+**automl-alearn** is a Python library designed to simplify the machine learning workflow, offering streamlined model building, visualization, and data preprocessing. It empowers users to rapidly prototype and construct models with minimal complexity.
 
 ## Key Features
 
