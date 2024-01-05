@@ -1,4 +1,4 @@
-![automl-alearn](https://github.com/PataleAkhil/alearn/assets/111335903/ca013ef7-7fca-4a5b-acaf-49fe42d49056)
+![automl-alearn](https://github.com/PataleAkhil/automl-alearn/blob/238ad98608c57692ee515e8e6dfb999faaeda950/alearn.gif)
 
 <h1 align="center">'automl-alearn': Automated Machine Learning Library</h1>
 
